@@ -1,1 +1,5 @@
-change on master
+change on master, but amended
+
+change1 in bugfix branch
+chante 2 in bugfix branch
+change 3 in bf branch
